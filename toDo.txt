@@ -1,0 +1,19 @@
+Zrobione:
+    - okno g³ówne ze wszystkimi komponentami, ale bez zdarzeñ.
+    - komponenty s¹ atrybutami w klasie OknoGlowne (czy jakoœ tak), z tej klasy mo¿na siê dobraæ do dowolnego komponentu
+               okna g³ównego jad¹c tylko po atrybutach.
+    - skanowanie wszystkich piosenek i pamietanie potrzebnych danych
+    - piosenka mowi czy pasuje (nazwa i tekstem) do poprawnego wzorca ciagow i trybu szukania lub albo i
+    - zrobiono w mapie wsz f zdarz bez odpalania i legendy i save i skanJeszczeRaz
+
+    - dziala odpalanie na plikach tymczasowych
+
+Zrobiæ:
+
+     - poladowac dodatki: legenda, skan jeszcze raz
+
+     - zrobic save
+
+     - odkryc ukryte przyciski: save/load, legenda, skan jeszcze raz
+
+     - od biedy moze byc
