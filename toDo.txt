@@ -1,4 +1,7 @@
 
+!!!!!!!!!!!!!!!!!!!! przywróciæ tekst kolêd sprzez formatowania !!!!!!!!!!!!!!!!
+
+
 
 Zrobione:
     - okno g³ówne ze wszystkimi komponentami, ale bez zdarzeñ.
