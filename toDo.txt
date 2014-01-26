@@ -1,6 +1,6 @@
 
-!!!!!!!!!!!!!!!!!!!! przywróciæ tekst kolêd sprzez formatowania !!!!!!!!!!!!!!!!
- - teksty kolêd sprzed formatowania sciagnieto - zosta³o przywróciæ.
+!! przywróciæ tekst kolêd sprzez formatowania !!
+ - przywrócono chyba dobrze - lepiej byæ nie mo¿e :)
 
 
 
