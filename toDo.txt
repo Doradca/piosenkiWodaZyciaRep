@@ -1,9 +1,4 @@
 
-!! przywróciæ tekst kolêd sprzez formatowania !!
- - przywrócono chyba dobrze - lepiej byæ nie mo¿e :)
-
-
-
 Zrobione:
     - okno g³ówne ze wszystkimi komponentami, ale bez zdarzeñ.
     - komponenty s¹ atrybutami w klasie OknoGlowne (czy jakoœ tak), z tej klasy mo¿na siê dobraæ do dowolnego komponentu
