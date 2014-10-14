@@ -18,3 +18,4 @@ Zrobiæ:
      - odkryc ukryte przyciski: save/load, legenda, skan jeszcze raz
 
      - od biedy moze byc
+
