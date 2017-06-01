@@ -8,6 +8,7 @@ import java.util.ArrayList;
 
 import ListaPiosenekStan.MapaListyPiosenek;
 import OknoGlowne.OknoZrobListePiesniJFrame;
+import ZdarzOdpalPiesni.PILOT.PilotMainWatek;
 
 public class OdpalPiosenki implements ActionListener{
 	
@@ -32,12 +33,16 @@ public class OdpalPiosenki implements ActionListener{
 		}
 		System.out.println("koniec CMD");
 		
+		// uruchom pilot (serwer) jesli sie uda
+		new PilotMainWatek().start();
 		
 		// koncz program
 		try {
 			Thread.sleep(10000);
 		} catch (InterruptedException e) {}
+
 		KopieTMP.chodzWKolkoDoSkasowaniaPlikowIKataloguTMP();
+		PilotMainWatek.setCalaAplikacjaOproczSerweraStoi(true);
 	}
 
 	private void wykonajKomendeCMD(String komendaZEnteremSlashN){
